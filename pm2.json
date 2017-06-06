@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "rss_generator",
+    "script": "www/production.js",
+    "cwd": "/Users/huangwei/Desktop/webRoot/rss_generator",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}

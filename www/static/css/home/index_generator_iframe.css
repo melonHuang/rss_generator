@@ -1,0 +1,21 @@
+
+.RSSHover
+{
+  /*-webkit-mask-image: linear-gradient(red 0px, red 100px);
+  -webkit-mask-size: calc(100% - 10px);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: 5px 5px;
+  -webkit-mask-clip: content-box;*/
+  outline: 3px solid green;
+  outline-offset: -3px;
+}
+
+.RSSItem {
+  outline: 2px solid #333;
+  outline-offset: -2px;
+}
+
+.RSSImage {
+  outline: 2px solid yellow;
+  outline-offset: -2px;
+}
